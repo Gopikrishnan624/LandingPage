@@ -215,7 +215,7 @@ text-decoration-color: #a517ba;
   {
   width: auto;
   height: 500px;
-  background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(/Impact/Impact/assets/img/cta-bg.jpg);
+  background:linear-gradient(rgba(0,0,0,.5),rgba(0,0,0,.5)),url(https://bootstrapmade.com/content/demo/Impact/assets/img/about-2.jpg);
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 20px;
@@ -308,7 +308,7 @@ text-decoration-color: #a517ba;
   {
   width: auto;
   height: 500px;
-  background:url(/Impact/Impact/assets/img/about-2.jpg );
+  background:url(https://bootstrapmade.com/content/demo/Impact/assets/img/about-2.jpg );
   background-size: cover;
   background-repeat: no-repeat;
   border-radius: 5px;
